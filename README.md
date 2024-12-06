@@ -128,7 +128,7 @@ We welcome contributions to enhance the functionality of this tool. To contribut
 4. Push to your fork and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 ## Contact
 For questions or support, please contact [sandip.kalsait](mailto:kalsaitsandip91@gmail.com).

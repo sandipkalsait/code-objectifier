@@ -1,0 +1,25 @@
+{
+  "name": "java-code-objectify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --name java-code-objectify",
+    "__comment_dev": "nodemon index.js",
+    "stop": "pm2 stop java-code-objectify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandip.kalsait",
+  "license": "ISC",
+  "description": "A tool to convert Java code into JSON format, integrating object-oriented principles and enabling easier manipulation of code structure.",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "express-fileupload": "^1.5.1",
+    "java-code-objectify": "file:",
+    "unzipper": "^0.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "pm2": "^5.4.3"
+  }
+}
